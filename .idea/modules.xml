@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InailBoost.iml" filepath="$PROJECT_DIR$/.idea/modules/InailBoost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/InailBoost.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/InailBoost.app.iml" />
+    </modules>
+  </component>
+</project>
